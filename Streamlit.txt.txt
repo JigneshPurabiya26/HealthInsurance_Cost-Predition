@@ -1,0 +1,22 @@
+***Deploying Machine Learning Model Using the Streamlit Library in Python***
+- Step 1:- Save Your Machine learning model using the pickel library
+
+- Step 2:- After saving the model download the .sav file to your system
+
+- Step 3:- Now open the Anaconda Navigator, if not installed please install it 
+
+- Step 4:- Now create your own environment in the anaconda navigator by giving a suitable name without giving any space
+
+- Step 5:- After creating the environment download the streamlit library by opening the terminal
+	     which is done by left clicking on the play button beside your environment name.
+
+- Step 6:- For downloading the Streamlit Library run the following command in the terminal 
+	     pip install stremlit
+	     After running this command the library will get installed into your environment.
+
+- Step 7:- After the streamlit library is downloaded install the spyder IDE into your environment.
+           And once the installation is done you are good to go to develop the GUI for your machine learning 
+	     model and deploying it. 
+
+- Step 8:- After writing the code for GUI run the file using the command
+	     streamlit run "<file location>"
